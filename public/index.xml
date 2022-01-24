@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Website Name</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Website Name</description>
+    <title>Zero to Astronaut</title>
+    <link>https://zerotoastronaut.com/</link>
+    <description>Recent content on Zero to Astronaut</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 24 Jan 2022 15:11:41 +0100</lastBuildDate>
     
-	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zerotoastronaut.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     
     <item>
       <title>My First Post</title>
-      <link>https://example.com/my-first-post/</link>
+      <link>https://zerotoastronaut.com/my-first-post/</link>
       <pubDate>Mon, 24 Jan 2022 15:11:41 +0100</pubDate>
       
-      <guid>https://example.com/my-first-post/</guid>
+      <guid>https://zerotoastronaut.com/my-first-post/</guid>
       <description>&lt;p&gt;Hellllloppp.&lt;/p&gt;
 </description>
     </item>
